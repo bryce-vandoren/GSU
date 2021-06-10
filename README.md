@@ -6,14 +6,16 @@ Code to accompany Bryce Van Doren's teaching demonstration on June 11, 2021 at t
 
 Thank you for participating in the teaching demonstration for the position of Research Data Specialist at the Georgia State University Library's (Research Data Services)[https://research.library.gsu.edu/dataservices]. The attached code will help to guide you in using R Studio on your own.
 
-If you do not already have ***R Studio*** installed on your computer, please download it now. Please note, you **must** also install ***R*** in order for ***R Studio*** to function properly. You can download the most recent versions of ***R*** and ***R Studio*** at the following links:
-
-### R Studio Download
-[https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
+## First Steps
+If you do not already have ***R Studio*** installed on your computer, please download it now. Please note, you **must** also install ***R*** in order for ***RStudio Desktop*** to function properly. You can download the most recent versions of ***R*** and ***RStudio Desktop*** for free at the following links:
 
 ### R Download
 [https://www.r-project.org/](https://www.r-project.org/)
-The most recent version of R is R version 4.1.0 (Camp Pontanezen).
+The most recent version of R is R version 4.1.0 (Camp Pontanezen). Please download the configuration of R 4.1.0 that matches your computer and operating system (e.g., Mac vs. Windows version).
+
+### RStudio Desktop Download
+[https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
+Please download the configuration of RStudio Desktop that matches your computer and operating system.
 
 ## Attached Files
 * GSS.csv -- This file contains the data used in the teaching demonstration. The data were acquired from the (National Opinion Research Center (NORC) at the University of Chicago)[https://gssdataexplorer.norc.org] and are a subset of the General Social Survey.
