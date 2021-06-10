@@ -11,11 +11,11 @@ If you do not already have ***R Studio*** installed on your computer, please dow
 
 ### R Download
 [https://www.r-project.org/](https://www.r-project.org/)
-The most recent version of R is R version 4.1.0 (Camp Pontanezen). Please download the configuration of R 4.1.0 that matches your computer and operating system (e.g., Mac vs. Windows version).
+* The most recent version of R is R version 4.1.0 (Camp Pontanezen). Please download the configuration of R 4.1.0 that matches your computer and operating system (e.g., Mac vs. Windows version).
 
 ### RStudio Desktop Download
 [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
-Please download the configuration of RStudio Desktop that matches your computer and operating system.
+* Please download the configuration of RStudio Desktop that matches your computer and operating system.
 
 ## Attached Files
 * GSS.csv -- This file contains the data used in the teaching demonstration. The data were acquired from the [National Opinion Research Center (NORC) at the University of Chicago](https://gssdataexplorer.norc.org) and are a subset of the General Social Survey.
