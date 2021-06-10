@@ -1,5 +1,5 @@
 # GSU
-Code to accompany Bryce Van Doren's teaching demonstration on June 11, 2021 at the [Georgia State University Library](http://library.gsu.edu).
+Code to accompany Bryce Van Doren's teaching demonstration on June 11, 2021 at the [Georgia State University Library](https://library.gsu.edu).
 
 #### Information in this README file is current as of June 10, 2021.
 *Please note that to the best of my knowledge, the attached script is functioning at the time of publication. Should you find an error, please let me know at bvandore@uncc.edu.*
