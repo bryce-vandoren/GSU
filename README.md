@@ -1,7 +1,7 @@
 # GSU
 Code to accompany Bryce Van Doren's teaching demonstration on June 11, 2021 at the [Georgia State University Library](https://library.gsu.edu).
 
-#### Information in this README file is current as of June 10, 2021.
+#### Information in this README file is current as of June 11, 2021.
 *Please note that to the best of my knowledge, the attached script is functioning at the time of publication. Should you find an error, please let me know at bvandore@uncc.edu.*
 
 Thank you for participating in the teaching demonstration for the position of Research Data Specialist at the Georgia State University Library's [Research Data Services](https://research.library.gsu.edu/dataservices). The attached code will help to guide you in using R Studio on your own.
