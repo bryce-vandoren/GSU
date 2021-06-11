@@ -19,3 +19,4 @@ If you do not already have ***R Studio*** installed on your computer, please dow
 
 ## Attached Files
 * GSS.csv -- This file contains the data used in the teaching demonstration. The data were acquired from the [National Opinion Research Center (NORC) at the University of Chicago](https://gssdataexplorer.norc.org) and are a subset of the General Social Survey.
+* GSS_script.R -- R Code used during the teaching demonstration. Please note: You will need to create a working directory in R to use this script. To create a new working directory, click File then "New Project". You can then open the GSS_script.R file.
